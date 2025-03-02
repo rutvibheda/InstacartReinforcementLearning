@@ -37,6 +37,7 @@ The AI **learns to order stock at the right time**, reducing storage costs while
 
 ## **📌 Understanding the Dataset**
 We use an **Instacart Orders Dataset**, which contains **historical e-commerce sales data**.  
+Dataset Link : https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset
 
 ### **Key Columns in the Dataset**
 | **Column** | **Description** |
